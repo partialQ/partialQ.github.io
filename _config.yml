@@ -21,7 +21,7 @@ repository               : #"partialQ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "2.png"
   name             : "Ren Yuqi"
   pronouns         : # example: "she/her"  
   bio              : "Hi, welcome to my homepage!"
