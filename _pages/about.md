@@ -35,15 +35,10 @@ Publications
 Awards and Honors
 ======
 
-  
-* **Outstanding Graduate of Southeat University**(2024)
- 
-* **Huawei Scholarship**(2023)
-
-* **Huawei Scholarship**(2022)
-    
-* **Lenovo Scholarship**(2021)
-  
-* **Southeast University Scholarship**(2021)
+* Outstanding Graduate of Southeat University (2024)
+* Huawei Scholarship (2023)
+* Huawei Scholarship (2022)  
+* Lenovo Scholarship (2021)
+* Southeast University Scholarship (2021)
 
 
