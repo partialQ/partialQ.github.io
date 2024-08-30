@@ -13,12 +13,11 @@ Education
 ======
 
   
-* **Master of Science (M.S.) ,[School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)**
-
+* Master of Science (M.S.) ,[School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
 2024 - Present
 
   
-* **Bachelor of Science (B.S.) ,[School of Computer Science and Engineering](https://cse.seu.edu.cn/) ,[Southeast University](https://www.seu.edu.cn/)**
+* Bachelor of Science (B.S.) ,[School of Computer Science and Engineering](https://cse.seu.edu.cn/) ,[Southeast University](https://www.seu.edu.cn/)
 
 2020 - 2024
 
