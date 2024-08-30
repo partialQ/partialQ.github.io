@@ -29,9 +29,6 @@ Research Interests
 <li>Audio Processing</li>
 </ul>
 
-Publications
-======
-
 
 Awards and Honors
 ======
@@ -41,5 +38,8 @@ Awards and Honors
 * Huawei Scholarship (2022)  
 * Lenovo Scholarship (2021)
 * Southeast University Scholarship (2021)
+
+Publications
+======
 
 
