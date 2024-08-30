@@ -12,13 +12,14 @@ I am a first-year Master’s student at [CISL laboratory](https://cscw.fudan.edu
 Education
 ======
 
-2024 - Present  
-* M.S, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+ 
+-M.S, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+  2024 - Present 
 
 
-2020 - 2024  
-* B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
 
+-B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast -University](https://www.seu.edu.cn/)
+  2020 - 2024  
 
 
 
