@@ -41,27 +41,19 @@ Awards and Honors
 <ul>
 <li>
   
-**Outstanding Graduate of Southeat University**
-  
-(2024)</li>
+**Outstanding Graduate of Southeat University**(2024)</li>
 <li>
   
-  **Huawei Scholarship**
-  (2023)</li>
+  **Huawei Scholarship**(2023)</li>
 <li>
   
-  **Huawei Scholarship**
-  
-  (2022)</li>  
+  **Huawei Scholarship**(2022)</li>  
   <li>
     
-  **Lenovo Scholarship**
-  (2021)</li>
+  **Lenovo Scholarship**(2021)</li>
 
-    <li>
-    
-  **Southeast **
-  (2021)</li>
+  **Southeast Scholarship**(2021)</li>
+
   
 
 </ul>
