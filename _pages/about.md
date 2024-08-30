@@ -18,7 +18,7 @@ Education
 
 
 
-- B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast -University](https://www.seu.edu.cn/)
+- B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
   2020 - 2024  
 
 
