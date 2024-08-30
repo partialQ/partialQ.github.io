@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master’s student at [CISL laboratory](https://cscw.fudan.edu.cn/), under the supervision of [Prof. Li Shang](https://cscw.fudan.edu.cn/lishang/).
+I am a first-year Master’s student at [CISL laboratory](https://cscw.fudan.edu.cn/), [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Li Shang](https://cscw.fudan.edu.cn/lishang/).
 
 Education
 ======
