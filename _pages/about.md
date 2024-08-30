@@ -34,7 +34,7 @@ Research Interests
 Awards and Honors
 ======
 
-* Outstanding Graduate of Southeat University (2024)
+* Outstanding Graduate of Southeast University (2024)
 * Huawei Scholarship (2022,2023) 
 * Lenovo Scholarship (2021)
 * Southeast University Scholarship (2021)
