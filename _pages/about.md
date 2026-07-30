@@ -34,7 +34,7 @@ Research Interests
 
 Publications
 ======
-
+- **Yuqi Ren**, N. Li, P. Zhang, N. Gu, and T. Lu. (2026). GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026* (pp. 1-10). ACM. Rio de Janeiro, Brazil. [Link](https://doi.org/10.1145/3767308.3836502)
 
 Awards and Honors
 ======
