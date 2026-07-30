@@ -28,7 +28,7 @@ Publications
 ======
 - **Yuqi Ren**, N. Li<sup>†</sup>, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
 
-- G. Liu*,  **Yuqi Ren\***, H. Gu, P. Zhang<sup>†</sup>, W. Wang, J. Liu, N. Gu, and T. Lu. StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance. *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571), [Github](https://github.com/landian60/StreamMemBench.)
+- G. Liu\*,  **Yuqi Ren\***, H. Gu, P. Zhang<sup>†</sup>, W. Wang, J. Liu, N. Gu, and T. Lu. StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance. *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571), [Github](https://github.com/landian60/StreamMemBench.)
 
 <sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
  
