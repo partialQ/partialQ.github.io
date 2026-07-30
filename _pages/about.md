@@ -35,7 +35,7 @@ Publications
 
 Awards and Honors
 ======
-* Academic scholarship for Postgraduates(2025,2026)
+* Academic scholarship for Postgraduates (2025, 2026)
 * Outstanding Graduate of Southeast University (2024)
 * Huawei Scholarship (2022,2023) 
 * Lenovo Scholarship (2021)
