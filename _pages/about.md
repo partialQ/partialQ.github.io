@@ -34,7 +34,11 @@ Research Interests
 
 Publications
 ======
-- **Yuqi Ren**, N. Li, P. Zhang, N. Gu, and T. Lu. (2026). GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026* (pp. 1-10). ACM. Rio de Janeiro, Brazil. [Link](https://doi.org/10.1145/3767308.3836502)
+- **Yuqi Ren**, Nuo Li, P. Zhang, Ning Gu, and Tun Lu. (2026). GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
+
+- Guanming Liu*, **Yuqi Ren***, Hansu Gu, Peng Zhang, Weihang Wang, Jiahao Liu, Ning Gu, and Tun Lu. "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance." *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571)
+
+(*Co-first authors)
 
 Awards and Honors
 ======
