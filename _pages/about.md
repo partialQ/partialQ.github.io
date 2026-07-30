@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master’s student at [CISL laboratory](https://cscw.fudan.edu.cn/), [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Tun Lu](https://cscw.fudan.edu.cn/tunlu/list.htm) and [Postdoc Nuo Li](https://cscw.fudan.edu.cn/linuo/list.htm)
+I am a third-year Master’s student at [CISL laboratory](https://cscw.fudan.edu.cn/), [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Tun Lu](https://cscw.fudan.edu.cn/tunlu/list.htm) and [Postdoc Nuo Li](https://cscw.fudan.edu.cn/linuo/list.htm)
 
 Education
 ======
 
  
-- M.S, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+- MPhil, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
   2024 - Present 
 
 
@@ -34,11 +34,11 @@ Research Interests
 
 Publications
 ======
-- **Yuqi Ren**, Nuo Li, P. Zhang, Ning Gu, and Tun Lu. (2026). GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
+- **Yuqi Ren**, Nuo Li<sup>†</sup>, P. Zhang, Ning Gu, and Tun Lu<sup>†</sup>. (2026). GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
 
-- Guanming Liu*, **Yuqi Ren***, Hansu Gu, Peng Zhang, Weihang Wang, Jiahao Liu, Ning Gu, and Tun Lu. "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance." *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571)
+- Guanming Liu<sup>†</sup>, **Yuqi Ren<sup>*</sup>**, Hansu Gu, Peng Zhang<sup>†</sup>, Weihang Wang, Jiahao Liu, Ning Gu, and Tun Lu. "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance." *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571)
 
-(*Co-first authors)
+<sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
 
 Awards and Honors
 ======
