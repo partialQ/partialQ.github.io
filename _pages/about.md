@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div class="jumpbar" aria-label="Quick section navigation">
-  <span class="jumpbar__label">Jump to</span>
-  <div class="jumpbar__links">
-    <a class="btn btn--small" href="#education">Education</a>
-    <a class="btn btn--small" href="#publications">Publications</a>
-    <a class="btn btn--small" href="#internship-experience">Internships</a>
-    <a class="btn btn--small" href="#awards-and-honors">Awards</a>
-  </div>
-</div>
+<p class="page__taxonomy" aria-label="Quick section navigation">
+  <strong>Jump to:</strong>
+  <a class="page__taxonomy-item" href="#education">Education</a>
+  <a class="page__taxonomy-item" href="#publications">Publications</a>
+  <a class="page__taxonomy-item" href="#internship-experience">Internships</a>
+  <a class="page__taxonomy-item" href="#awards-and-honors">Awards</a>
+</p>
 
 I am a third-year Master’s student at [CISL laboratory](https://cscw.fudan.edu.cn/), [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Tun Lu](https://cscw.fudan.edu.cn/tunlu/list.htm) and [Postdoc Nuo Li](https://cscw.fudan.edu.cn/linuo/list.htm).
 
