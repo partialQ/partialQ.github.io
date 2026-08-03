@@ -13,7 +13,7 @@ My research interests include multimodal large models and memory systems in larg
 
 I am expected to graduate in 2027.06, and I am currently on the job market!
 
-## Education
+### Education
 
 
  
@@ -26,7 +26,7 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 
 
-## Publications
+### Publications
 
 - **Yuqi Ren**, N. Li<sup>†</sup>, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
 
@@ -37,22 +37,19 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 <sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
  
 
-## Internship Experience
+### Internship Experience
 
-- Pinduoduo TEMU – Search & Recommendation Large Models  
-*Jun 2026 – Sep 2026*  
-Fine-tuned small-scale models on math and coding tasks using teacher reasoning traces, merged cross-domain checkpoints, and applied GRPO with resampling to improve performance on difficult questions.
-
-- Zhiyuan Robotics – Embodied Pre-training Framework  
-*Mar 2026 – May 2026*  
-Designed and iterated a unified pre-training framework for embodied AI. Implemented multi-card parallel data loading to balance dataset distribution and reduce loading time. Set up CI/CD checks for gradient and device state alignment.
+- Pinduoduo TEMU – Search & Recommendation Large Models  *Jun 2026 – Sep 2026*  
 
 
-- Hikvision Shanghai Research Institute – Hallucination Suppression in Multimodal LLMs for Text Recognition  
-*Mar 2025 – Apr 2025*  
-Addressed text recognition hallucinations in VLMs by constructing downscaled datasets and designing a GRPO reward system to penalize hallucinations while encouraging correct recognition on blurred text.
+- Zhiyuan Robotics – Embodied Pre-training Framework  *Mar 2026 – May 2026*  
 
-## Awards and Honors
+
+
+- Hikvision Shanghai Research Institute – Hallucination Suppression in Multimodal LLMs for Text Recognition  *Mar 2025 – Apr 2025*  
+
+
+### Awards and Honors
 
 * Academic scholarship for Postgraduates (2025, 2026)
 * Outstanding Graduate of Southeast University (2024)
