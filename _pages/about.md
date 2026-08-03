@@ -11,8 +11,10 @@ I am a third-year Master’s student at [CISL laboratory](https://cscw.fudan.edu
 
 My research interests include multimodal large models and memory systems in large language models.
 
-Education
-======
+I am expected to graduate in 2027.06, and I am currently on the job market!
+
+## Education
+
 
  
 - MPhil, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
@@ -24,17 +26,34 @@ Education
 
 
 
-Publications
-======
+## Publications
+
 - **Yuqi Ren**, N. Li<sup>†</sup>, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
+
+- **Yuqi Ren**, N. Li<sup>†</sup>, Y. Du, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  Gaze-MIRL: Gaze-based Content Understanding in Large Vision-Language Models via Multi-Granularity Instruction-based Reinforcement Learning. In *TPCI 2026 (CCF-B)*  
 
 - G. Liu\*,  **Yuqi Ren\***, H. Gu, P. Zhang<sup>†</sup>, W. Wang, J. Liu, N. Gu, and T. Lu. StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance. *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571), [Github](https://github.com/landian60/StreamMemBench.)
 
 <sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
  
 
-Awards and Honors
-======
+## Internship Experience
+
+- Pinduoduo TEMU – Search & Recommendation Large Models  
+*Jun 2026 – Sep 2026*  
+Fine-tuned small-scale models on math and coding tasks using teacher reasoning traces, merged cross-domain checkpoints, and applied GRPO with resampling to improve performance on difficult questions.
+
+- Zhiyuan Robotics – Embodied Pre-training Framework  
+*Mar 2026 – May 2026*  
+Designed and iterated a unified pre-training framework for embodied AI. Implemented multi-card parallel data loading to balance dataset distribution and reduce loading time. Set up CI/CD checks for gradient and device state alignment.
+
+
+- Hikvision Shanghai Research Institute – Hallucination Suppression in Multimodal LLMs for Text Recognition  
+*Mar 2025 – Apr 2025*  
+Addressed text recognition hallucinations in VLMs by constructing downscaled datasets and designing a GRPO reward system to penalize hallucinations while encouraging correct recognition on blurred text.
+
+## Awards and Honors
+
 * Academic scholarship for Postgraduates (2025, 2026)
 * Outstanding Graduate of Southeast University (2024)
 * Huawei Scholarship (2022, 2023) 
