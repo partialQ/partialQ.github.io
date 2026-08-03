@@ -13,7 +13,7 @@ I am a third-year Master’s student at [CISL laboratory](https://cscw.fudan.edu
 
 My research interests include multimodal large models and memory systems in large language models.
 
-I am expected to graduate in 2027.06, and I am currently on the job market!
+I am expected to graduate in 2027.06, and I am currently on the job market! Please feel free to contact me.
 
 ## Education
 
@@ -45,7 +45,6 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 
 - Zhiyuan Robotics, Embodied Pre-training Framework, Mar 2026 - May 2026 
-
 
 
 - Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition, Mar 2025 - Apr 2025    
