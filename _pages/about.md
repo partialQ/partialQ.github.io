@@ -19,11 +19,11 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 
  
-- MPhil, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+- MPhil, [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/),
   2024 - Present 
 
 
-- B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
+- B.E, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/),
   2020 - 2024  
 
 
@@ -41,14 +41,14 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 ## Internship Experience
 
-- *Jun 2026 – Sep 2026*, Pinduoduo TEMU, Search & Recommendation Large Language Models  
+- Jun 2026 - Sep 2026, Pinduoduo TEMU, Search & Recommendation Large Language Models  
 
 
-- *Mar 2026 – May 2026*, Zhiyuan Robotics, Embodied Pre-training Framework  
+- Mar 2026 - May 2026, Zhiyuan Robotics, Embodied Pre-training Framework  
 
 
 
-- *Mar 2025 – Apr 2025*, Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition    
+- Mar 2025 - Apr 2025, Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition    
 
 
 ## Awards and Honors
