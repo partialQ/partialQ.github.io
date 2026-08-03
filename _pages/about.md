@@ -41,14 +41,14 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 ## Internship Experience
 
-- Jun 2026 - Sep 2026, Pinduoduo TEMU, Search & Recommendation Large Language Models  
+- Pinduoduo TEMU, Search & Recommendation Large Language Models, Jun 2026 - Sep 2026  
 
 
-- Mar 2026 - May 2026, Zhiyuan Robotics, Embodied Pre-training Framework  
+- Zhiyuan Robotics, Embodied Pre-training Framework, Mar 2026 - May 2026 
 
 
 
-- Mar 2025 - Apr 2025, Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition    
+- Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition, Mar 2025 - Apr 2025    
 
 
 ## Awards and Honors
