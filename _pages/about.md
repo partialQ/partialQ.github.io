@@ -13,7 +13,7 @@ My research interests include multimodal large models and memory systems in larg
 
 I am expected to graduate in 2027.06, and I am currently on the job market!
 
-### Education
+## Education
 
 
  
@@ -26,7 +26,7 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 
 
 
-### Publications
+## Publications
 
 - **Yuqi Ren**, N. Li<sup>†</sup>, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  GazePruning: Gaze-Guided Token Pruning for LVLMs in Virtual Reality. In *ACM MM 2026 (CCF-A)*  [Link](https://doi.org/10.1145/3767308.3836502)
 
@@ -37,7 +37,7 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 <sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
  
 
-### Internship Experience
+## Internship Experience
 
 - *Jun 2026 – Sep 2026*, Pinduoduo TEMU, Search & Recommendation Large Models  
 
@@ -49,7 +49,7 @@ I am expected to graduate in 2027.06, and I am currently on the job market!
 - *Mar 2025 – Apr 2025*, Hikvision Shanghai Research Institute, Hallucination Suppression in Multimodal LLMs for Text Recognition    
 
 
-### Awards and Honors
+## Awards and Honors
 
 * Academic scholarship for Postgraduates (2025, 2026)
 * Outstanding Graduate of Southeast University (2024)
