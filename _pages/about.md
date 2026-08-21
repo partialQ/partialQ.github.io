@@ -34,7 +34,7 @@ I am expected to graduate in 2027.06, and I am currently on the job market! Plea
 
 - **Yuqi Ren**, N. Li<sup>†</sup>, Y. Du, P. Zhang, N. Gu, and T. Lu<sup>†</sup>.  Gaze-MIRL: Gaze-based Content Understanding in Large Vision-Language Models via Multi-Granularity Instruction-based Reinforcement Learning. In *TPCI 2026 (CCF-B)*  
 
-- G. Liu\*,  **Yuqi Ren\***, H. Gu, P. Zhang<sup>†</sup>, W. Wang, J. Liu, N. Gu, and T. Lu. StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance. *arXiv:2606.14571*, 2026. [Link](https://arxiv.org/abs/2606.14571), [Github](https://github.com/landian60/StreamMemBench.)
+- G. Liu\*,  **Yuqi Ren\***, H. Gu, P. Zhang<sup>†</sup>, W. Wang, J. Liu, N. Gu, and T. Lu. StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance. In *EMNLP Findings*, 2026. [Link](https://arxiv.org/abs/2606.14571), [Github](https://github.com/landian60/StreamMemBench.)
 
 <sup>*</sup> Co-first authors. &nbsp;&nbsp; <sup>†</sup> Corresponding author.
  
